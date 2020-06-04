@@ -37,3 +37,4 @@ manager = EmployeeManager()
 manager.add_employee(Programmer(10000, 100000))
 manager.add_employee(Testor(8000, 100))
 print(manager.calculate_total_salary())
+# 这是一行无关紧要的代码
